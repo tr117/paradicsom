@@ -1,1 +1,2 @@
 # paradicsom
+Itt gyakorolhatsz hozzájárulást. 
